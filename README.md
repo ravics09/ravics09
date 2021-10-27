@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
+<div align="center">
+<img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
+</div>
 <br>
 
 <h1 align="center">Hello Fellow < Developers/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ravi</h1>
-<h3 align="center">A JavaScript Developer</h3>
+<h3 align="center">Software Engineer | Technical Content Writer | JavaScript Developer</h3>
 
 <div align="center">
 
