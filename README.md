@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
+<h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ravi</h1>
 <h3 align="center">A JavaScript Developer</h3>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ravics09/ravics09/issues/new"><b>here</b></a><br>
+or <a href="mailto:ravisharmacs09@gmail.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravics09&label=Profile%20views&color=0e75b6&style=flat" alt="ravics09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravics09" alt="ravics09" /></a> </p>
 
-- 📝 I regularly write articles on [https://dev.to/javascriptcentric](https://dev.to/javascriptcentric)
-
-- 📫 How to reach me **ravisharmacs09@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
