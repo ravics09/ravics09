@@ -6,10 +6,12 @@
 <h3 align="center">Software Engineer | Technical Content Writer | JavaScript Developer</h3>
 
 <div align="center">
+    <p>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ravics09/ravics09/issues/new"><b>here</b></a>
 or <a href="mailto:ravisharmacs09@gmail.com"><b>email</b></a> me.
+</p>
 <p align="center">
 <a href="https://dev.to/javascriptcentric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="javascriptcentric" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravics09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravics09" height="30" width="40" /></a>
