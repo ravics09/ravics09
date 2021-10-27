@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ravi</h1>
+<h1 align="center">Hello Fellow < Developers/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ravi</h1>
 <h3 align="center">A JavaScript Developer</h3>
 
 <div align="center">
