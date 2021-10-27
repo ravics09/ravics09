@@ -1,17 +1,14 @@
 <div align="center">
 <img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
 </div>
-<br>
 
 <h1 align="center">Hello Fellow < Developers/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ravi</h1>
 <h3 align="center">Software Engineer | Technical Content Writer | JavaScript Developer</h3>
 
-<hr/>
 <div align="center">
-
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ravics09/ravics09/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/ravics09/ravics09/issues/new"><b>here</b></a>
 or <a href="mailto:ravisharmacs09@gmail.com"><b>email</b></a> me.
 <p align="center">
 <a href="https://dev.to/javascriptcentric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="javascriptcentric" height="30" width="40" /></a>
