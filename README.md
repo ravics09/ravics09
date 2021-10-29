@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello Fellow < Developers/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ravi</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | JavaScript Developer (ReactJS, ReactNative, Redux, NodeJS, MongoDB )</h3>
+<h3 align="center">Software Engineer | Technical Content Writer | JavaScript Developer (ReactJS, ReactNative, NodeJS, MongoDB )</h3>
 
 <div align="center">
     <p>
